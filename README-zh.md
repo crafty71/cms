@@ -100,3 +100,12 @@ Modern browsers and Internet Explorer 10+.
 [MIT](https://github.com/PanJiaChen/vue-admin-template/blob/master/LICENSE) license.
 
 Copyright (c) 2017-present PanJiaChen
+ 
+ const clearAnalysis = false 
+
+ const analysis => {
+    console.log("我不明白")
+ }
+ while (clearAnalysis){
+     analysis()
+ }
